@@ -9,3 +9,6 @@ Blog post on password strength indicators: https://www.troyhunt.com/password-str
 
 LastPass:
 https://lastpass.com/f?18260122
+
+Tutorial on implementing Pwned Password API:
+https://youtu.be/tz0s2djOQ5g
